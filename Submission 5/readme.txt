@@ -5,25 +5,22 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=IXyF6NW_gmM
 
 Conference submitted paper / paper submission / login Link:
-
+https://r10htc2023.org/index.php
 
 Paper title:
 Text classification for news articles.
 
-
-Paper presentation (anyone can view without login):
-
-
 Paper submission date (to workshop/conference):
-
+14-5-2023
 
 Paper submission ID: (received) from conference/workshop
-
+#1570913503
 
 Conference Name:
-
+IEEE R10 HTC (Humanitarian Technology Conference)
 
 Conference URL:
+https://r10htc2023.org/index.php
 
 
 Group Number:
