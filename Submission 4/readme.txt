@@ -5,10 +5,24 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=uXwQxlz_33s
 
 Conference submitted paper / paper submission / login Link:
+https://r10htc2023.org/index.php
 
 
 Paper title:
-Text Classification for News Articles using NLP Techniques
+Text classification for news articles.
+
+
+Paper submission date (to workshop/conference):
+14-5-2023
+
+Paper submission ID: (received) from conference/workshop
+#1570913503
+
+Conference Name:
+IEEE R10 HTC (Humanitarian Technology Conference)
+
+Conference URL:
+https://r10htc2023.org/index.php
 
 
 Group Number:
@@ -18,3 +32,4 @@ Group Members:
 20101217 Jobeda Khanam Ria
 20101224 Sadman Majumder
 20101228 MD. Reaz Uddin
+
